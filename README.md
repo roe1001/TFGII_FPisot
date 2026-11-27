@@ -1,4 +1,4 @@
-HEAD (B2)
+
 # Eco City Tours
 
 ## TFG Ingeniería Informática - Fernando Pisot
